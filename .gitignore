@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+## Panda
+styled-system
+styled-system-studio
+
+## Homemade
+.env
